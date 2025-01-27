@@ -45,11 +45,11 @@ fedoraadmin.BorderSizePixel = 3
 fedoraadmin.Position = UDim2.new(0.541596174, 0, 0.268325627, 0)
 fedoraadmin.Size = UDim2.new(0, 103, 0, 40)
 fedoraadmin.Font = Enum.Font.SourceSans
-fedoraadmin.Text = "Fedora Admin"
+fedoraadmin.Text = "Thomas Fling"
 fedoraadmin.TextColor3 = Color3.fromRGB(0, 0, 0)
 fedoraadmin.TextSize = 14.000
 fedoraadmin.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/alexx1212/fedoratoomutch/main/toomucth'))()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/5m21a0Bx'),true))()
 end)
 Energizegui.Name = "Energize gui"
 Energizegui.Parent = ImageLabel
