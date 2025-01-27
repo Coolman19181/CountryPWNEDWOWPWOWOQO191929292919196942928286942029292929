@@ -73,11 +73,11 @@ SPAMCHAT.BorderSizePixel = 3
 SPAMCHAT.Position = UDim2.new(0.541596174, 0, 0.478941619, 0)
 SPAMCHAT.Size = UDim2.new(0, 102, 0, 40)
 SPAMCHAT.Font = Enum.Font.SourceSans
-SPAMCHAT.Text = "print ig"
+SPAMCHAT.Text = "nameless admin"
 SPAMCHAT.TextColor3 = Color3.fromRGB(0, 0, 0)
 SPAMCHAT.TextSize = 14.000
 SPAMCHAT.MouseButton1Down:connect(function()
-	print("bopz41")
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/Nameless-Admin-No-Byfron-Kick/main/Source",true))()
 end)
 _4nn1gui.Name = "4nn1 gui"
 _4nn1gui.Parent = ImageLabel
